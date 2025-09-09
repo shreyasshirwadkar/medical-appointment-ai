@@ -1,0 +1,15 @@
+This is a placeholder for the New Patient Intake Form PDF.
+
+In a real implementation, this would be the actual PDF form that patients need to complete before their appointment.
+
+The form would typically include:
+
+- Personal Information
+- Medical History
+- Current Medications
+- Allergies
+- Insurance Information
+- Emergency Contacts
+- Consent Forms
+
+This file would be attached to confirmation emails and sent to patients automatically after booking confirmation.

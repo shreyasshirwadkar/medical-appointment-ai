@@ -1,0 +1,24 @@
+.env# Ignore environment files
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Data exports and generated files
+exports/
+*.csv
+*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env/
