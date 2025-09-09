@@ -1,4 +1,6 @@
 # AI Medical Appointment Scheduling Agent
+- [Technical Approach](docs/technical_approach.md)
+- [API Documentation](docs/api_documentation.md)
 
 ## Project Overview
 An AI-powered medical appointment scheduling system that automates patient booking, reduces no-shows, and streamlines clinic operations using LangGraph and LangChain.
